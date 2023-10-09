@@ -1,5 +1,5 @@
 import java.util.Arrays;
-
+//Add this comment to check that, is the git ignore works.
 public class Task1 {
     public static void main(String[] args) {
 
